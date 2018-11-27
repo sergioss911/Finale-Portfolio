@@ -35,4 +35,11 @@ h1{
   font-family: 'Bungee Shade', cursive;
   color: #FFFFFF;
 }
+
+ p    {font-family: 'IBM Plex Mono', monospace;
+        font-weight: normal;
+        font-style: normal;
+        font-size:200%;
+        color:gray;
+         }
 	
